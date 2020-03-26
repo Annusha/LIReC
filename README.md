@@ -1,2 +1,2 @@
 # LIReC
-[web-page](https://annusha.github.io/lirec/)
+[web-page](https://annusha.github.io/LIReC/)
