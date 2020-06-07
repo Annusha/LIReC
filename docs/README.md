@@ -1,4 +1,4 @@
-###Learning Interactions and Relationships between Movie Characters
+### Learning Interactions and Relationships between Movie Characters
 
 [Anna Kukleva](https://annusha.github.io)<sup>1,2</sup>	[Makarand Tapaswi](http://www.cs.toronto.edu/~makarand/)<sup>1</sup>	[Ivan Laptev](https://www.di.ens.fr/~laptev/)<sup>1</sup>
 
