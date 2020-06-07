@@ -1,1 +1,10 @@
-theme: jekyll-theme-tactile
+theme: jekyll-theme-cayman 
+markdown: GFM 
+title: [Learning Interactions and Relationships between Movie Characters]
+description: [CVPR 2020 (Oral)]
+
+github:
+  paper_url: https://arxiv.org/pdf/2003.13158.pdf
+  video1_url: https://drive.google.com/file/d/1B6u9Ggpvhop8OgzmLG1C_G8zpt7Z7MSa/view?usp=sharing
+  video5_url: https://drive.google.com/file/d/1dGyMmWEmJ1pKE5kts9ngk3xjRZFYz233/view?usp=sharing
+  slides_url: https://arxiv.org/pdf/2003.13158.pdf
