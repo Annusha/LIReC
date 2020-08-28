@@ -47,8 +47,8 @@ interactions and movie characters detection
 interactions, relationships and movie characters detection
   python resume/int_rel_ch.py
 ```
-Each file has option `sanity_check`. If it sets to True, you can quickly check if nothing breaks with the data paths and models.   
-If it sets to False, test will be made on the entire dataset.
+Each file has option `sanity_check`. If it is set to True, you can quickly check if nothing breaks with the data paths and models.   
+If it is set to False, test will be made on the entire dataset.
 
 4. Movie character detection can be evaluated with model trained on ground truth or weakly trained model. Set to corresponding value `tr_correct` in 'resume/int_ch.py' or 'resume/int_rel_ch.py'.
 
