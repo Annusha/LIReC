@@ -15,8 +15,16 @@ If you use the code, please cite
 }
 ```
 
-To run the code first download the data: [link]() // will be here soon  
-Note that it's about 80GB. Preserve inner structure.
+To run the code first download the data: [https://www.rocq.inria.fr/cluster-willow/mtapaswi/downloads/anna_cvpr2020/](https://www.rocq.inria.fr/cluster-willow/mtapaswi/downloads/anna_cvpr2020/) 
+Note that it's about 80GB. Put all the downloads in the same folder `data_root` parameter (see below) with the subfolders:
+- models_release/
+- features/
+- dialogs/
+- frame2time/
+- ftracks/
+- ftrack_ids/
+- intersections/
+- others/
 
 1. Set all the paths:
 ```
